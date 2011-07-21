@@ -1,0 +1,12 @@
+Facebook "Like Box" Visualforce Component
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=129
+Challenge end date: Mon Mar 14 05:00:00 GMT 2011
+
+Description
+===========
+The new Force.com Toolkit for Facebook contains Visualforce components for the &quot;Like&quot; button, Activity feed and Recommendations social plugins. Create a new Visualforce custom component for the &quot;Like Box&quot; social plugin.
+
+Requirements
+============
+The Visualforce component should use the iframe version of the social plugin and be configurable via component parameters.
